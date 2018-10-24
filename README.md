@@ -41,7 +41,7 @@ To run this sample, you'll need:
 From your shell or command line:
 
 `git clone https://github.com/Azure-Samples/active-directory-dotnet-webapp-openidconnect.git`
-> Given that the name of the sample is pretty long, and so are the name of the referenced NuGet pacakges, you might want to clone it in a folder close to the root of your hard drive, to avoid file size limitations on Windows.
+> Given that the name of the sample is pretty long, and so are the name of the referenced NuGet packages, you might want to clone it in a folder close to the root of your hard drive, to avoid file size limitations on Windows.
 
 ### Step 2:  Register the sample with your Azure Active Directory tenant
 
